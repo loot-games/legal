@@ -52,4 +52,4 @@ We may update this Policy from time to time. Material changes will be reflected 
 
 For questions about this Policy, please contact us:
 
-[Support Form]({SUPPORT_URL_PLACEHOLDER})
+[Support Form](https://forms.gle/H2BDG7YfCWy3zhDfA)
