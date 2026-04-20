@@ -56,4 +56,4 @@ We may update this Policy from time to time. Material changes will be reflected 
 
 For questions about this Policy, please contact us:
 
-[Support Form](TODO_REPLACE_WITH_LIGHTOGGLE_FORM_URL)
+[Support Form](https://forms.gle/avMeFoCRR9p8EtaG7)
