@@ -56,4 +56,4 @@ Google AdMob および Apple Game Center が収集したデータは、米国を
 
 本ポリシーに関するご質問は以下よりご連絡ください:
 
-[お問い合わせフォーム](TODO_REPLACE_WITH_LIGHTOGGLE_FORM_URL)
+[お問い合わせフォーム](https://forms.gle/avMeFoCRR9p8EtaG7)
