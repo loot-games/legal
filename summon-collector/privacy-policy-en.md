@@ -56,4 +56,4 @@ We may update this Policy from time to time. Material changes will be reflected 
 
 For questions about this Policy, please contact us:
 
-[Support Form](https://forms.gle/avMeFoCRR9p8EtaG7)
+[Support Form](https://forms.gle/Tw6atxkuRdsA46MV9)

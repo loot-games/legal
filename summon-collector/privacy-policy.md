@@ -56,4 +56,4 @@ Google AdMob および Apple のサービスが収集したデータは、米国
 
 本ポリシーに関するご質問は以下よりご連絡ください:
 
-[お問い合わせフォーム](https://forms.gle/avMeFoCRR9p8EtaG7)
+[お問い合わせフォーム](https://forms.gle/Tw6atxkuRdsA46MV9)
