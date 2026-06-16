@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 const rootDir = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const distDir = join(rootDir, "dist");
 const siteName = "Loot Games Legal";
-const siteUrl = "https://legal.loot-games.workers.dev";
+const siteUrl = "https://loot-games.github.io/legal";
 
 rmSync(distDir, { recursive: true, force: true });
 mkdirSync(distDir, { recursive: true });
@@ -55,8 +55,12 @@ function extractTitle(markdown) {
 }
 
 function renderIndex(pages) {
-  const links = pages
-    .map((page) => `<li><a href="${page.route}">${escapeHtml(page.appSlug)} / ${escapeHtml(page.title)} (${page.lang})</a></li>`)
+  const publicPages = pages.filter((page) => page.appSlug === "merge-tiles");
+  const links = publicPages
+    .map((page) => {
+      const label = page.lang === "ja" ? "2048 Pocket / プライバシーポリシー" : "2048 Pocket / Privacy Policy";
+      return `<li><a href="${page.route}">${escapeHtml(label)}</a></li>`;
+    })
     .join("\n");
 
   return renderPage({
