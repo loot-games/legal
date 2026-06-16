@@ -1,15 +1,8 @@
 # Loot Games Legal
 
-Static legal pages for Loot Games apps.
+Public legal documents for Loot Games apps.
 
-## Deploy
+## 2048 Pocket
 
-```bash
-npm run deploy
-```
-
-Production URL:
-
-```text
-https://legal.loot-games.workers.dev/
-```
+- [Privacy Policy](https://loot-games.github.io/legal/merge-tiles/privacy-policy-en)
+- [プライバシーポリシー](https://loot-games.github.io/legal/merge-tiles/privacy-policy)
