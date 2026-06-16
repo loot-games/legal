@@ -60,4 +60,4 @@ Google、Appleなどの第三者サービスが収集したデータは、米国
 
 本ポリシーに関するご質問は以下よりご連絡ください:
 
-2048 Lite専用のお問い合わせフォームは準備中です。公開後、このページのリンクを更新します。
+[お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSef58OOsrilBzT3VMzdHCr-GldasLV0gxUmJnTCsNUGG-_daw/viewform)

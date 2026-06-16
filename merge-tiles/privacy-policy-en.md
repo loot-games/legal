@@ -60,4 +60,4 @@ We may update this Policy from time to time. Material changes will be reflected 
 
 For questions about this Policy, please contact us:
 
-The support form for 2048 Lite is being prepared. This page will be updated after it is published.
+[Support Form](https://docs.google.com/forms/d/e/1FAIpQLSef58OOsrilBzT3VMzdHCr-GldasLV0gxUmJnTCsNUGG-_daw/viewform)
