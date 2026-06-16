@@ -2,7 +2,7 @@
 
 **Last updated: June 16, 2026**
 
-"2048 Lite" (the "Service") respects your privacy. This Privacy Policy explains how we collect, use, and share information when you use the web version or the iOS app version of the Service.
+"2048 Pocket" (the "Service") respects your privacy. This Privacy Policy explains how we collect, use, and share information when you use the web version or the iOS app version of the Service.
 
 ## 1. Information We Collect
 
