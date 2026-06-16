@@ -1,0 +1,9 @@
+{
+  "name": "@loot-games/legal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "deploy": "npm run build && npx wrangler deploy dist --name legal --compatibility-date 2026-06-16"
+  }
+}
