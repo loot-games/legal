@@ -1,20 +1,20 @@
 # Privacy Policy
 
-**Last updated: June 16, 2026**
+**Last updated: June 17, 2026**
 
-"Loot 2048" (the "Service") respects your privacy. This Privacy Policy explains how we collect, use, and share information when you use the web version or the iOS app version of the Service.
+"Loot 2048" (the "Service") respects your privacy. This Privacy Policy explains how we collect, use, and share information when you use the iOS app version of the Service.
 
 ## 1. Information We Collect
 
 The Service may collect or store the following information:
 
-- **Game Data**: Current board state, score, best score, move count, language, sound effects, haptics, and related settings are stored on your device or in your browser.
-- **Advertising Identifier (IDFA)**: In the iOS app version, this may be collected through Google AdMob only if you grant permission through Apple's App Tracking Transparency (ATT) prompt. It is used for ad personalization and delivery optimization.
-- **Device Information**: Information such as OS version, device model, language settings, and browser information may be collected by Google AdSense or Google AdMob for ad delivery, fraud prevention, and measurement.
-- **Purchase Information**: If you purchase Remove Ads in the iOS app version, the purchase is processed by the Apple App Store. The Service checks whether the remove-ads entitlement is active and stores that status on your device.
-- **Crash Reports**: In the iOS app version, anonymous crash information may be sent through Apple's systems if you allow it. This is managed by Apple, not by us.
+- **Game Data**: Current board state, score, best score, move count, language, sound effects, haptics, and related settings are stored on your device.
+- **Advertising Identifier (IDFA)**: This may be collected through Google AdMob only if you grant permission through Apple's App Tracking Transparency (ATT) prompt. It is used for ad personalization and delivery optimization.
+- **Device Information**: Information such as OS version, device model, and language settings may be collected by Google AdMob for ad delivery, fraud prevention, and measurement.
+- **Purchase Information**: If you purchase Remove Ads, the purchase is processed by the Apple App Store. The Service checks whether the remove-ads entitlement is active and stores that status on your device.
+- **Crash Reports**: Anonymous crash information may be sent through Apple's systems if you allow it. This is managed by Apple, not by us.
 
-The Service does not require user accounts and does not collect personally identifiable information such as your name, email address, or location. Game progress is generally stored locally on your device or in your browser.
+The Service does not require user accounts and does not collect personally identifiable information such as your name, email address, or location. Game progress is generally stored locally on your device.
 
 ## 2. How We Use Information
 
@@ -29,8 +29,7 @@ Information collected or stored is used for the following purposes:
 
 The Service may use the following third-party services:
 
-- **Google AdSense** (advertising for the web version): [Google Privacy Policy](https://policies.google.com/privacy)
-- **Google AdMob** (advertising for the iOS app version): [Google Privacy Policy](https://policies.google.com/privacy)
+- **Google AdMob** (advertising): [Google Privacy Policy](https://policies.google.com/privacy)
 - **Apple App Store / StoreKit** (iOS in-app purchases): [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
 
 Each service collects and uses information in accordance with its own privacy policy.
@@ -42,7 +41,6 @@ You can control settings and tracking through the following methods:
 - **Sound and haptics settings**: You can turn sound effects and haptics on or off in the Service settings.
 - **Disable ATT**: iOS Settings → Privacy & Security → Tracking → turn off permission for this app.
 - **Reset Advertising ID**: iOS Settings → Privacy & Security → Apple Advertising → Reset Advertising Identifier.
-- **Delete browser data**: In the web version, you can delete cookies, site data, and localStorage from your browser settings.
 
 ## 5. Children's Privacy
 
