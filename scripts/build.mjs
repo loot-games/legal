@@ -58,7 +58,7 @@ function renderIndex(pages) {
   const publicPages = pages.filter((page) => page.appSlug === "merge-tiles");
   const links = publicPages
     .map((page) => {
-      const label = page.lang === "ja" ? "2048 Pocket / プライバシーポリシー" : "2048 Pocket / Privacy Policy";
+      const label = page.lang === "ja" ? "Loot 2048 / プライバシーポリシー" : "Loot 2048 / Privacy Policy";
       return `<li><a href="${page.route}">${escapeHtml(label)}</a></li>`;
     })
     .join("\n");
