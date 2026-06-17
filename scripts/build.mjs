@@ -55,7 +55,7 @@ function extractTitle(markdown) {
 }
 
 function renderIndex(pages) {
-  const publicPages = pages.filter((page) => page.appSlug === "merge-tiles");
+  const publicPages = pages.filter((page) => page.appSlug === "loot-2048");
   const links = publicPages
     .map((page) => {
       const label = page.lang === "ja" ? "Loot 2048 / プライバシーポリシー" : "Loot 2048 / Privacy Policy";
